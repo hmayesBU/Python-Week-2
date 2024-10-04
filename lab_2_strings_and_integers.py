@@ -27,3 +27,5 @@ my_text = "I have an apple, you have an apple"
 print(my_text)
 count = my_text.count("a")
 print(count)
+
+print("what is wrong")
